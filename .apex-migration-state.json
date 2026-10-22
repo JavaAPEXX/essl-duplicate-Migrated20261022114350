@@ -1,0 +1,7 @@
+{
+  "job_id": "job_15d61579dde8",
+  "sourceRepoUrl": "https://github.com/afzal-sorim/essl-duplicate",
+  "targetJavaVersion": "21.0.10",
+  "status": "MIGRATION_CHECKPOINT",
+  "migration_date": ""
+}
